@@ -1,0 +1,4 @@
+`define INTR_SFR_ADDR	  32'h400
+`define CTRL_SFR_ADDR     32'h404
+`define IO_ADDR_SFR_ADDR  32'h408
+`define MEM_ADDR_SFR_ADDR 32'h40C
